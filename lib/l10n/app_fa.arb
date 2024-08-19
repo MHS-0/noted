@@ -1,0 +1,37 @@
+{
+  "@@locale": "fa",
+
+  "title": "!Noted",
+  "@title": {
+    "description": "The title of the app"
+  },
+  "notesTabTitle": "یادداشت ها",
+  "todoTabTitle": "لیست کار ها",
+  "settings": "تنظیمات",
+  "about": "درباره",
+  "aboutDescription": "برنامه یادداشت برداری نوشته شده با استفاده از فلاتر!",
+  "appVersion": "1.0.0",
+  "fabTooltip": "آیتم جدید!",
+  "emptyNoteListText": "یادداشتی وجود ندارد!",
+  "emptyTodoListText": "کاری برای انجام وجود ندارد!",
+  "titleTextFieldLabel": "تیتر",
+  "detailsTextFieldLabel": "یادداشت",
+  "titleTextFieldHint": "تیتر یادداشت شما!",
+  "detailsTextFieldHint": "یادداشت خود را اینجا بنویسید!",
+  "todoTextFieldLabel": "کار",
+  "todoTextFieldHint": "کار خود را اینجا بنویسید!",
+  "todoBottomSheetTitle": "کار",
+  "cancelButtonText": "لغو",
+  "saveButtonText": "ذخیره",
+  "okButtonText": "تأیید",
+  "searchFieldLabel": "جستجو",
+  "theme": "تم",
+  "themeDialogTitle": "تم مورد نظر خود را انتخاب کنید :",
+  "lightTheme": "تم روشن",
+  "darkTheme": "تم تیره",
+  "systemTheme": "تم سیستم",
+  "language": "زبان",
+  "languageDialogTitle": "زبان مورد نظر خود را انتخاب کنید :",
+  "english": "English",
+  "persian": "فارسی"
+}

@@ -1,0 +1,37 @@
+{
+  "@@locale": "en",
+
+  "title": "Noted!",
+  "@title": {
+    "description": "The title of the app"
+  },
+  "notesTabTitle": "NOTES",
+  "todoTabTitle": "TODO",
+  "settings": "Settings",
+  "about": "About",
+  "aboutDescription": "A note app written using Flutter!",
+  "appVersion": "1.0.0",
+  "fabTooltip": "New entry!",
+  "emptyNoteListText": "No notes!",
+  "emptyTodoListText": "No Todos!",
+  "titleTextFieldLabel": "Title",
+  "detailsTextFieldLabel": "Note",
+  "titleTextFieldHint": "Your Note's Title!",
+  "detailsTextFieldHint": "Your Note Goes Here!",
+  "todoTextFieldLabel": "TODO",
+  "todoTextFieldHint": "Write your TODO here!",
+  "todoBottomSheetTitle": "TODO",
+  "cancelButtonText": "Cancel",
+  "saveButtonText": "Save",
+  "okButtonText": "OK",
+  "searchFieldLabel": "Search",
+  "theme": "Theme",
+  "themeDialogTitle": "Choose your preferred theme mode :",
+  "lightTheme": "Light Theme",
+  "darkTheme": "Dark Theme",
+  "systemTheme": "System Theme",
+  "language": "Language",
+  "languageDialogTitle": "Choose your preferred language :",
+  "english": "English",
+  "persian": "فارسی"
+}
